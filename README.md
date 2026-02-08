@@ -5,7 +5,10 @@
 В данном проекте используется версия 0.9.4. Инструкция подходит строго под **Debian/Ubuntu**, под другие системы нужно дорабатывать/переделывать!
 
 **Инструкция:**
-1. Скачать проект
-2. Перейти в папку проекта 
-3. Дать права на исполнение: chmod +x setup_3proxy.sh
-4. Запустить: sudo ./setup_3proxy.sh
+1. Скачать скрипт: wget https://raw.githubusercontent.com/hloralee/3proxy-install/refs/heads/main/setup_3proxy.sh
+2. Дать права на исполнение: chmod +x setup_3proxy.sh
+3. Запустить: sudo ./setup_3proxy.sh
+4. Опционально: Если нет "sudo", то:
+   - выполнить команду "su -"
+   - ввести пароль от root пользователя
+   - выполнить команду ./setup_3proxy.sh
