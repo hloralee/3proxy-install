@@ -7,5 +7,5 @@
 **Инструкция:**
 1. Скачать проект
 2. Перейти в папку проекта 
-3. Дай права на исполнение: chmod +x setup_3proxy.sh
-4. Запусти: sudo ./setup_3proxy.sh
+3. Дать права на исполнение: chmod +x setup_3proxy.sh
+4. Запустить: sudo ./setup_3proxy.sh
